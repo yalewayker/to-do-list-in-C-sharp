@@ -1,0 +1,11 @@
+c:\users\yalew\documents\visual studio 2015\Projects\Todo list app\Todo list app\bin\Debug\Todo list app.exe.config
+c:\users\yalew\documents\visual studio 2015\Projects\Todo list app\Todo list app\bin\Debug\Todo list app.exe
+c:\users\yalew\documents\visual studio 2015\Projects\Todo list app\Todo list app\bin\Debug\Todo list app.pdb
+c:\users\yalew\documents\visual studio 2015\Projects\Todo list app\Todo list app\bin\Debug\MySql.Data.dll
+c:\users\yalew\documents\visual studio 2015\Projects\Todo list app\Todo list app\bin\Debug\MySql.Data.xml
+c:\users\yalew\documents\visual studio 2015\Projects\Todo list app\Todo list app\obj\Debug\Todo list app.csprojResolveAssemblyReference.cache
+c:\users\yalew\documents\visual studio 2015\Projects\Todo list app\Todo list app\obj\Debug\Todo_list_app.Form1.resources
+c:\users\yalew\documents\visual studio 2015\Projects\Todo list app\Todo list app\obj\Debug\Todo_list_app.Properties.Resources.resources
+c:\users\yalew\documents\visual studio 2015\Projects\Todo list app\Todo list app\obj\Debug\Todo list app.csproj.GenerateResource.Cache
+c:\users\yalew\documents\visual studio 2015\Projects\Todo list app\Todo list app\obj\Debug\Todo list app.exe
+c:\users\yalew\documents\visual studio 2015\Projects\Todo list app\Todo list app\obj\Debug\Todo list app.pdb
